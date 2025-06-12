@@ -1,7 +1,7 @@
 {
   "name": "new-folder",
   "version": "1.0.0",
-  "main": "scrapar.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "puppeteer": "^24.10.0",
     "xlsx": "^0.18.5"
   }
 }
