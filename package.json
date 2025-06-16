@@ -11,9 +11,12 @@
   "description": "",
   "dependencies": {
     "@supercharge/promise-pool": "^3.2.0",
+    "axios": "^1.9.0",
     "csv-parse": "^5.6.0",
     "csv-parser": "^3.2.0",
     "csv-writer": "^1.6.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "puppeteer": "^24.10.0",
     "xlsx": "^0.18.5"
   }
